@@ -1,4 +1,4 @@
-# Statki
+# Statki [StudyProject]
 
 Popularna gra w wersji desktopowej umożliwiająca grę z komputerem oraz przez sieć. Gra powstała w 2012 roku.
 
